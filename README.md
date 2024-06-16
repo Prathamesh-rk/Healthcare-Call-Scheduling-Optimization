@@ -28,7 +28,7 @@ The final dashboard provides visualizations of:
 - Demographic factors play a significant role in determining optimal call timing.
 
 ## Links to Resources
-- **Power BI Dashboard**: [View Dashboard](https://drive.google.com/file/d/1KWpFLwBCbtDpRM4jDgrlFGDTOlKzfPLe/view?usp=sharing) 
+- **Power BI File**: [Download Power BI File](https://drive.google.com/file/d/1KWpFLwBCbtDpRM4jDgrlFGDTOlKzfPLe/view?usp=sharing) 
 - **Dataset Links**:
   - [Demographic Data](https://drive.google.com/file/d/1UgDuIH7fxH4S1qrr_WH5LXN-aKusq02K/view?usp=drive_link)
   - [Call Log Data](https://drive.google.com/file/d/1sbQKnc1SmWZI66D1N4G7p1LWrULK4P-j/view?usp=sharing)
